@@ -1,0 +1,57 @@
+*{
+    color: black;
+    float: left;
+}
+header{
+    width: 92%;
+    height: 75x;
+    background-color: blue;
+    border: 3px solid red;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+}
+nav{
+    background-color: orange;
+    border: 3px solid greenyellow;
+    width: 97%;
+    height: 35px;
+    margin-top: 15px;
+    padding: 10px;
+}
+aside{
+    background-color:palegoldenrod;
+    border: 3px solid red;
+    width: 15%;
+    height: 500px;
+
+    margin: 15px;
+    padding: 15px;
+}
+main{
+    background-color: rgb(212, 97, 68);
+    border: 3px solid blue;
+    color: white;
+    width: 50%;
+    height: 500px;
+    margin: 15px;
+    padding: 15px;
+    
+}
+article{
+    background-color: yellow;
+    width: 90%;
+    height: 70px;
+    margin: 15px;
+    padding: 15px;
+}
+footer{
+    background-color: purple;
+    border: 3px solid black;
+    color: white;
+    width: 92%;
+    height: 100px;
+
+    margin: 15px;
+    padding: 15px;
+}
